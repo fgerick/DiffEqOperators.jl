@@ -23,7 +23,7 @@ DiffEqBase = "6.4.1"
 ForwardDiff = "0.10"
 LazyArrays = "0.14, 0.15"
 ModelingToolkit = "0.10.0, 1.0"
-NNlib = "0.6"
+NNlib = "0.6, 0.7"
 StaticArrays = "0.10, 0.11, 0.12"
 julia = "1"
 
